@@ -15,3 +15,5 @@ pandas
 faiss-cpu
 torch
 langchain
+langchain-classic
+sentence-transformers
