@@ -1,0 +1,16 @@
+langchain-classic
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-google-genai
+google-genai
+langchain-huggingface
+transformers
+huggingface-hub
+python-dotenv
+streamlit
+PyPDF2
+numpy==1.26.4
+scikit-learn
+pandas
+faiss-cpu
